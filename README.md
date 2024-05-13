@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/EvelynLopesSS/Bootcamp_Dio_Data_Analytics/assets/113462824/ac7ec465-f29d-407a-88af-9f1c9c1086c3" alt="DIO logo">
+</p>
+
 # Exercícios do Bootcamp Dio Data Analytics
 
 # Criação de Base de dados para uma Agência de Viagens🛫
