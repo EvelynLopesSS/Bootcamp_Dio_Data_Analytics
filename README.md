@@ -4,9 +4,9 @@
 
 # Exercícios do Bootcamp Dio Data Analytics
 
-# Criação de Base de dados para uma Agência de Viagens🛫
+# 🛫Criação de Base de dados para uma Agência de Viagens🛫
 
-Banco de dados relacional [![Database](https://img.shields.io/badge/Database-Files-blue.svg)](https://github.com/EvelynLopesSS/Bootcamp_Dio_Data_Analytics/tree/main/DataBase)
+## 🗂️Banco de dados relacional [![Database](https://img.shields.io/badge/Database-Files-blue.svg)](https://github.com/EvelynLopesSS/Bootcamp_Dio_Data_Analytics/tree/main/DataBase)
 
 <p align="center">
   <img src="https://github.com/EvelynLopesSS/Bootcamp_Dio_Data_Analytics/assets/113462824/4beb634f-b055-4d22-8868-f093aaed7c89" alt="Types of JOIN">
