@@ -6,7 +6,7 @@
 
 # 🛫Criação de Base de dados para uma Agência de Viagens🛫
 
-## 🗄️Banco de dados relacional [![Database](https://img.shields.io/badge/Database-Files-blue.svg)](https://github.com/EvelynLopesSS/Bootcamp_Dio_Data_Analytics/tree/main/DataBase)
+## 🗄️Banco de dados relacional [![DataBase_Relacional](https://img.shields.io/badge/Database-Files-blue.svg)](https://github.com/EvelynLopesSS/Bootcamp_Dio_Data_Analytics/tree/main/DataBase_Relacional)
 
 <p align="center">
   <img src="https://github.com/EvelynLopesSS/Bootcamp_Dio_Data_Analytics/assets/113462824/4beb634f-b055-4d22-8868-f093aaed7c89" alt="Types of JOIN">
@@ -20,6 +20,8 @@
 </p>
 
 ## 🗄️Banco de dados não relacional [![MongoDB](https://img.shields.io/badge/Database-MongoDB-green.svg)](https://www.mongodb.com/)
+
+ [![DataBase_N_Relacional](https://img.shields.io/badge/Database-Files-blue.svg)](https://github.com/EvelynLopesSS/Bootcamp_Dio_Data_Analytics/tree/main/DataBase_N_Relacional)
 
 Aqui estão alguns dos 50 operadores mais usados no MongoDB:
 
